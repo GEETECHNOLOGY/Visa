@@ -7,3 +7,5 @@ python( 'Hello World')
 #pyhon script is good
 deployment4
 deployment5
+deployment in dev enviroment
+
