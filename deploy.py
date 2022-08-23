@@ -8,4 +8,4 @@ python( 'Hello World')
 deployment4
 deployment5
 deployment in dev enviroment
-
+delpoy application to staging area
