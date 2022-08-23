@@ -9,3 +9,5 @@ deployment4
 deployment5
 deployment in dev enviroment
 delpoy application to staging area
+echo "good job"
+tested and accepted 
