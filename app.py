@@ -5,4 +5,4 @@ print('chidi')
 print('grace')
 print('glory')
 print('LSS')
-# bugs removw
+# bugs removed
